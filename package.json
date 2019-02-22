@@ -1,0 +1,14 @@
+{
+  "name": "gl-udp-test-echo-server",
+  "version": "1.0.0",
+  "description": "GL UDP Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "udp"
+  ],
+  "author": "Mladen Trisic <mladen@garagelab.rs>",
+  "license": "ISC"
+}
